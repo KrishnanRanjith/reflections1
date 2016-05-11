@@ -1,0 +1,11 @@
+This is the first time i'm using Gitbash .Really it was a good 
+experience to findout the difference between two files with the help of 
+command like FC.
+
+This is the first update of the file ,intent to keep track of the differences between different versions
+
+Now,this time the update is about the pros and cons of manual commiting
+and automatic commiting
+
+Since you're the developer ,potentially you know when to make a commit.
+sometimes you think the changes you are made are small and not enough to make commit which may be differ for others. 
